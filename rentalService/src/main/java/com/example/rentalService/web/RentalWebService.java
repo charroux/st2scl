@@ -21,6 +21,8 @@ public class RentalWebService {
         cars.add(car);
         car = new Car("22BB33", 3000);
         cars.add(car);
+        car = new Car("44CCDD", 4000);
+        cars.add(car);
     }
 
     @GetMapping("/cars")
