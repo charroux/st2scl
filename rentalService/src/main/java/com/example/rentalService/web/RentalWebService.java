@@ -21,7 +21,7 @@ public class RentalWebService {
         cars.add(car);
         car = new Car("22BB33", 3000);
         cars.add(car);
-        car = new Car("33CC44", 5000);
+        car = new Car("33CC44", 6000);
         cars.add(car);
     }
 
