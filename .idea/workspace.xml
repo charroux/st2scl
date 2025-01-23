@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c846b447-a9af-4aaf-a5a8-11f25aaaaaaf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/acttions.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/acttions.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deployment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/deployment.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rentalService/src/main/java/com/example/rentalService/web/RentalWebService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rentalService/src/main/java/com/example/rentalService/web/RentalWebService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +35,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/benoitcharroux/Desktop/st2/st2scl&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "newcarservice",
+    "last_opened_file_path": "/Users/benoitcharroux/Desktop/mlsd/st2scl"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.example.st2scl" />
